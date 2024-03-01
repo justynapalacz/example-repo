@@ -1,1 +1,3 @@
 Pierwsze dodanie pliku.
+
+Zmiana wprowadzona przez Krzysiek.
